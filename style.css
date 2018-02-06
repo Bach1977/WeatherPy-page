@@ -1,0 +1,26 @@
+.latt-logo {
+    font-family: "Georgia";
+    font-weight: Bold;
+    font-size:25px;
+}
+
+h2 {
+    color: DarkCyan;
+    font-family: "Georgia";
+    font-weight: Bold;
+}
+
+h3 {
+    color: DarkCyan;
+    font-family: "Georgia";
+    font-weight: Bold;
+}
+
+.img-ch {
+    max-width: 100%;
+    height:auto;
+}
+
+.cent {
+    text-align: center;
+}
